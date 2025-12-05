@@ -9,6 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "cypress:open": "cypress open",
+    "cypress:open:component": "cypress open --component",
+    "cypress:open:e2e": "cypress open --e2e",
+    "cypress:run:component": "cypress run --component",
+    "cypress:run:e2e": "cypress run --e2e",
     "cypress:unit": "cypress run --component"
   },
   "dependencies": {
