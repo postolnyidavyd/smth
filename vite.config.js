@@ -20,7 +20,7 @@ export default defineConfig({
       ],
 
       extension: [".js", ".jsx"],
-      requireEnv: false,
+      requireEnv: true,
       cypress: true,
     }),
   ],
