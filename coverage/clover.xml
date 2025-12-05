@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1764921721106" clover="3.2.0">
+  <project timestamp="1764921721106" name="All files">
+    <metrics statements="346" coveredstatements="329" conditionals="123" coveredconditionals="103" methods="86" coveredmethods="79" elements="555" coveredelements="511" complexity="0" loc="346" ncloc="346" packages="11" files="40" classes="40"/>
+    <package name="components">
+      <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="9" coveredmethods="9"/>
+      <file name="Menu.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Menu.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+        <line num="7" count="192" type="stmt"/>
+        <line num="8" count="192" type="stmt"/>
+        <line num="10" count="192" type="stmt"/>
+        <line num="12" count="71" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+      </file>
+      <file name="Modal.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Modal.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="3" count="90" type="stmt"/>
+        <line num="16" count="90" type="stmt"/>
+        <line num="24" count="90" type="stmt"/>
+        <line num="29" count="113" type="stmt"/>
+      </file>
+      <file name="TitleTexts.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/TitleTexts.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="96" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Buttons">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="EnterButton.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Buttons/EnterButton.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="75" type="stmt"/>
+        <line num="26" count="75" type="stmt"/>
+        <line num="27" count="430" type="stmt"/>
+      </file>
+      <file name="MainPageButton.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Buttons/MainPageButton.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="23" type="stmt"/>
+        <line num="24" count="23" type="stmt"/>
+        <line num="25" count="72" type="stmt"/>
+      </file>
+      <file name="SocialButton.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Buttons/SocialButton.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="34" type="stmt"/>
+        <line num="22" count="34" type="stmt"/>
+        <line num="23" count="417" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Images">
+      <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="3" coveredmethods="3"/>
+      <file name="AppImage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Images/AppImage.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="25" type="stmt"/>
+        <line num="9" count="25" type="stmt"/>
+        <line num="18" count="25" type="stmt"/>
+        <line num="19" count="29" type="stmt"/>
+        <line num="21" count="60" type="stmt"/>
+      </file>
+      <file name="FilmFrame.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Images/FilmFrame.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="4" count="15" type="stmt"/>
+        <line num="21" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="22" count="34" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Inputs">
+      <metrics statements="28" coveredstatements="28" conditionals="5" coveredconditionals="5" methods="6" coveredmethods="6"/>
+      <file name="FileUpload.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Inputs/FileUpload.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="4" count="45" type="stmt"/>
+        <line num="8" count="45" type="stmt"/>
+        <line num="15" count="45" type="stmt"/>
+        <line num="19" count="45" type="stmt"/>
+        <line num="35" count="45" type="stmt"/>
+        <line num="36" count="226" type="stmt"/>
+        <line num="37" count="39" type="cond" truecount="1" falsecount="0"/>
+        <line num="38" count="39" type="stmt"/>
+        <line num="42" count="226" type="stmt"/>
+      </file>
+      <file name="InputField.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Inputs/InputField.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="75" type="stmt"/>
+        <line num="8" count="75" type="stmt"/>
+        <line num="16" count="75" type="stmt"/>
+        <line num="36" count="75" type="stmt"/>
+        <line num="37" count="1776" type="stmt"/>
+      </file>
+      <file name="RadioButton.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Inputs/RadioButton.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="12" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="39" count="20" type="stmt"/>
+        <line num="41" count="6" type="stmt"/>
+        <line num="42" count="20" type="stmt"/>
+        <line num="53" count="6" type="stmt"/>
+        <line num="55" count="18" type="stmt"/>
+      </file>
+      <file name="TextareaField.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/Inputs/TextareaField.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="45" type="stmt"/>
+        <line num="7" count="45" type="stmt"/>
+        <line num="14" count="45" type="stmt"/>
+        <line num="33" count="45" type="stmt"/>
+        <line num="34" count="226" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.layouts">
+      <metrics statements="41" coveredstatements="40" conditionals="6" coveredconditionals="5" methods="9" coveredmethods="9"/>
+      <file name="AppsSection.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/layouts/AppsSection.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="20" type="stmt"/>
+        <line num="13" count="20" type="stmt"/>
+        <line num="14" count="15" type="stmt"/>
+      </file>
+      <file name="FormSection.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/layouts/FormSection.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="23" type="stmt"/>
+      </file>
+      <file name="HorizontalGallery.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/layouts/HorizontalGallery.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="6" count="18" type="stmt"/>
+        <line num="31" count="18" type="stmt"/>
+        <line num="44" count="18" type="stmt"/>
+        <line num="46" count="35" type="stmt"/>
+        <line num="48" count="35" type="cond" truecount="1" falsecount="0"/>
+        <line num="49" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="51" count="11" type="stmt"/>
+        <line num="54" count="11" type="stmt"/>
+        <line num="57" count="17" type="stmt"/>
+      </file>
+      <file name="MainPageButtonsContainer.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/layouts/MainPageButtonsContainer.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="10" type="stmt"/>
+      </file>
+      <file name="PhotoGallery.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/layouts/PhotoGallery.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="21" type="stmt"/>
+        <line num="10" count="21" type="stmt"/>
+        <line num="20" count="21" type="stmt"/>
+        <line num="30" count="21" type="stmt"/>
+        <line num="37" count="21" type="stmt"/>
+        <line num="38" count="20" type="stmt"/>
+        <line num="43" count="26" type="stmt"/>
+      </file>
+      <file name="UserPhotosGallery.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/layouts/UserPhotosGallery.jsx">
+        <metrics statements="20" coveredstatements="19" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="13" count="11" type="stmt"/>
+        <line num="31" count="11" type="stmt"/>
+        <line num="39" count="44" type="stmt"/>
+        <line num="40" count="44" type="stmt"/>
+        <line num="42" count="44" type="stmt"/>
+        <line num="43" count="25" type="stmt"/>
+        <line num="44" count="25" type="stmt"/>
+        <line num="45" count="25" type="stmt"/>
+        <line num="48" count="24" type="stmt"/>
+        <line num="49" count="24" type="cond" truecount="1" falsecount="1"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="53" count="24" type="stmt"/>
+        <line num="57" count="44" type="stmt"/>
+        <line num="58" count="25" type="stmt"/>
+        <line num="61" count="44" type="cond" truecount="1" falsecount="0"/>
+        <line num="63" count="19" type="cond" truecount="1" falsecount="0"/>
+        <line num="64" count="13" type="stmt"/>
+        <line num="69" count="6" type="stmt"/>
+        <line num="73" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.styles">
+      <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="Menu.styled.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/styles/Menu.styled.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="3" count="64" type="stmt"/>
+        <line num="30" count="64" type="stmt"/>
+        <line num="41" count="64" type="stmt"/>
+        <line num="42" count="300" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="300" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="TitleTexts.styled.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/styles/TitleTexts.styled.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="4" count="68" type="stmt"/>
+        <line num="24" count="68" type="stmt"/>
+        <line num="33" count="480" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="68" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.typography">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ErrorMessage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/typography/ErrorMessage.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="70" type="stmt"/>
+      </file>
+      <file name="Heading.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/typography/Heading.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="23" type="stmt"/>
+      </file>
+      <file name="OrderedList.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/typography/OrderedList.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="15" type="stmt"/>
+        <line num="23" count="24" type="stmt"/>
+      </file>
+      <file name="Paragraph.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/typography/Paragraph.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="49" type="stmt"/>
+      </file>
+      <file name="UnauthorizedMessage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/components/typography/UnauthorizedMessage.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="15" type="stmt"/>
+      </file>
+    </package>
+    <package name="forms">
+      <metrics statements="103" coveredstatements="97" conditionals="74" coveredconditionals="59" methods="12" coveredmethods="11"/>
+      <file name="AuthForm.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/forms/AuthForm.jsx">
+        <metrics statements="44" coveredstatements="39" conditionals="43" coveredconditionals="33" methods="4" coveredmethods="4"/>
+        <line num="14" count="30" type="stmt"/>
+        <line num="15" count="205" type="stmt"/>
+        <line num="16" count="205" type="stmt"/>
+        <line num="17" count="205" type="stmt"/>
+        <line num="18" count="205" type="stmt"/>
+        <line num="19" count="205" type="stmt"/>
+        <line num="23" count="205" type="stmt"/>
+        <line num="25" count="205" type="stmt"/>
+        <line num="26" count="205" type="stmt"/>
+        <line num="27" count="205" type="stmt"/>
+        <line num="29" count="205" type="stmt"/>
+        <line num="31" count="205" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="33" count="9" type="stmt"/>
+        <line num="36" count="205" type="stmt"/>
+        <line num="37" count="9" type="stmt"/>
+        <line num="40" count="205" type="stmt"/>
+        <line num="41" count="42" type="stmt"/>
+        <line num="42" count="42" type="stmt"/>
+        <line num="44" count="42" type="cond" truecount="2" falsecount="0"/>
+        <line num="45" count="42" type="stmt"/>
+        <line num="46" count="42" type="stmt"/>
+        <line num="48" count="42" type="cond" truecount="3" falsecount="0"/>
+        <line num="49" count="27" type="cond" truecount="0" falsecount="1"/>
+        <line num="50" count="27" type="cond" truecount="0" falsecount="1"/>
+        <line num="52" count="27" type="stmt"/>
+        <line num="53" count="27" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="21" type="stmt"/>
+        <line num="58" count="12" type="stmt"/>
+        <line num="59" count="12" type="stmt"/>
+        <line num="60" count="12" type="stmt"/>
+        <line num="62" count="6" type="stmt"/>
+        <line num="68" count="6" type="stmt"/>
+        <line num="69" count="6" type="stmt"/>
+        <line num="70" count="6" type="stmt"/>
+        <line num="73" count="9" type="stmt"/>
+        <line num="74" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="78" count="9" type="stmt"/>
+        <line num="82" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="87" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="101" count="205" type="stmt"/>
+      </file>
+      <file name="AuthSwithLinks.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/forms/AuthSwithLinks.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="42" type="stmt"/>
+        <line num="17" count="42" type="stmt"/>
+        <line num="18" count="231" type="stmt"/>
+      </file>
+      <file name="BookingForm.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/forms/BookingForm.jsx">
+        <metrics statements="56" coveredstatements="55" conditionals="31" coveredconditionals="26" methods="7" coveredmethods="6"/>
+        <line num="11" count="40" type="stmt"/>
+        <line num="12" count="237" type="stmt"/>
+        <line num="13" count="237" type="stmt"/>
+        <line num="14" count="237" type="stmt"/>
+        <line num="15" count="237" type="stmt"/>
+        <line num="19" count="237" type="stmt"/>
+        <line num="21" count="237" type="stmt"/>
+        <line num="22" count="237" type="stmt"/>
+        <line num="23" count="237" type="stmt"/>
+        <line num="24" count="237" type="stmt"/>
+        <line num="25" count="237" type="stmt"/>
+        <line num="26" count="237" type="stmt"/>
+        <line num="27" count="237" type="stmt"/>
+        <line num="28" count="237" type="stmt"/>
+        <line num="30" count="237" type="stmt"/>
+        <line num="31" count="35" type="stmt"/>
+        <line num="32" count="35" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="35" type="stmt"/>
+        <line num="36" count="237" type="stmt"/>
+        <line num="37" count="48" type="stmt"/>
+        <line num="38" count="48" type="stmt"/>
+        <line num="41" count="237" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="237" type="stmt"/>
+        <line num="46" count="75" type="stmt"/>
+        <line num="47" count="75" type="stmt"/>
+        <line num="49" count="75" type="cond" truecount="1" falsecount="0"/>
+        <line num="50" count="25" type="cond" truecount="0" falsecount="1"/>
+        <line num="51" count="25" type="cond" truecount="0" falsecount="1"/>
+        <line num="52" count="25" type="cond" truecount="0" falsecount="1"/>
+        <line num="54" count="25" type="stmt"/>
+        <line num="56" count="25" type="stmt"/>
+        <line num="57" count="25" type="stmt"/>
+        <line num="58" count="25" type="stmt"/>
+        <line num="59" count="25" type="stmt"/>
+        <line num="60" count="25" type="stmt"/>
+        <line num="61" count="25" type="stmt"/>
+        <line num="62" count="25" type="stmt"/>
+        <line num="64" count="25" type="stmt"/>
+        <line num="65" count="25" type="cond" truecount="1" falsecount="1"/>
+        <line num="67" count="25" type="stmt"/>
+        <line num="68" count="15" type="stmt"/>
+        <line num="71" count="25" type="stmt"/>
+        <line num="72" count="25" type="stmt"/>
+        <line num="73" count="25" type="stmt"/>
+        <line num="74" count="25" type="stmt"/>
+        <line num="76" count="15" type="stmt"/>
+        <line num="77" count="15" type="stmt"/>
+        <line num="78" count="15" type="stmt"/>
+        <line num="79" count="15" type="stmt"/>
+        <line num="80" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="81" count="15" type="stmt"/>
+        <line num="84" count="8" type="stmt"/>
+        <line num="85" count="8" type="stmt"/>
+        <line num="89" count="237" type="stmt"/>
+        <line num="178" count="70" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="63" coveredstatements="63" conditionals="10" coveredconditionals="7" methods="9" coveredmethods="9"/>
+      <file name="useFetchData.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/hooks/useFetchData.jsx">
+        <metrics statements="25" coveredstatements="25" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="5"/>
+        <line num="3" count="44" type="stmt"/>
+        <line num="4" count="145" type="stmt"/>
+        <line num="5" count="199" type="stmt"/>
+        <line num="6" count="141" type="stmt"/>
+        <line num="8" count="141" type="stmt"/>
+        <line num="9" count="202" type="cond" truecount="0" falsecount="1"/>
+        <line num="10" count="136" type="stmt"/>
+        <line num="11" count="145" type="stmt"/>
+        <line num="13" count="75" type="stmt"/>
+        <line num="14" count="75" type="stmt"/>
+        <line num="16" count="148" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="62" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="74" type="cond" truecount="1" falsecount="0"/>
+        <line num="20" count="136" type="stmt"/>
+        <line num="21" count="38" type="stmt"/>
+        <line num="22" count="72" type="stmt"/>
+        <line num="23" count="72" type="stmt"/>
+        <line num="24" count="45" type="stmt"/>
+        <line num="25" count="119" type="stmt"/>
+        <line num="27" count="65" type="stmt"/>
+        <line num="29" count="141" type="stmt"/>
+        <line num="30" count="136" type="stmt"/>
+        <line num="31" count="80" type="stmt"/>
+        <line num="33" count="54" type="stmt"/>
+        <line num="34" count="127" type="stmt"/>
+      </file>
+      <file name="useFormPostData.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/hooks/useFormPostData.jsx">
+        <metrics statements="19" coveredstatements="19" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="40" type="stmt"/>
+        <line num="4" count="237" type="stmt"/>
+        <line num="5" count="237" type="stmt"/>
+        <line num="6" count="237" type="stmt"/>
+        <line num="8" count="237" type="stmt"/>
+        <line num="9" count="25" type="stmt"/>
+        <line num="10" count="25" type="stmt"/>
+        <line num="11" count="25" type="stmt"/>
+        <line num="13" count="25" type="stmt"/>
+        <line num="18" count="23" type="stmt"/>
+        <line num="20" count="23" type="cond" truecount="1" falsecount="0"/>
+        <line num="21" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="24" count="15" type="stmt"/>
+        <line num="25" count="15" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+        <line num="28" count="8" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="31" count="23" type="stmt"/>
+        <line num="35" count="237" type="stmt"/>
+      </file>
+      <file name="usePostData.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/hooks/usePostData.jsx">
+        <metrics statements="19" coveredstatements="19" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="30" type="stmt"/>
+        <line num="4" count="205" type="stmt"/>
+        <line num="5" count="205" type="stmt"/>
+        <line num="6" count="205" type="stmt"/>
+        <line num="8" count="205" type="stmt"/>
+        <line num="9" count="27" type="stmt"/>
+        <line num="10" count="27" type="stmt"/>
+        <line num="11" count="27" type="stmt"/>
+        <line num="13" count="27" type="stmt"/>
+        <line num="21" count="27" type="stmt"/>
+        <line num="23" count="27" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="18" type="stmt"/>
+        <line num="28" count="18" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="31" count="9" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="34" count="27" type="stmt"/>
+        <line num="38" count="205" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="43" coveredstatements="43" conditionals="16" coveredconditionals="16" methods="22" coveredmethods="22"/>
+      <file name="AboutMePage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/AboutMePage.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="11" count="64" type="stmt"/>
+        <line num="34" count="64" type="cond" truecount="1" falsecount="0"/>
+        <line num="35" count="18" type="stmt"/>
+        <line num="42" count="34" type="cond" truecount="2" falsecount="0"/>
+        <line num="43" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="51" count="10" type="stmt"/>
+        <line num="53" count="26" type="stmt"/>
+      </file>
+      <file name="BookingPage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/BookingPage.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="10" count="28" type="stmt"/>
+        <line num="11" count="28" type="stmt"/>
+        <line num="12" count="28" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="16" count="28" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="18" type="stmt"/>
+      </file>
+      <file name="ErrorPage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/ErrorPage.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="30" count="18" type="stmt"/>
+        <line num="31" count="18" type="stmt"/>
+        <line num="32" count="18" type="stmt"/>
+      </file>
+      <file name="LogInPage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/LogInPage.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="10" type="stmt"/>
+      </file>
+      <file name="MainPage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/MainPage.jsx">
+        <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="9" coveredmethods="9"/>
+        <line num="14" count="46" type="stmt"/>
+        <line num="16" count="46" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="14" type="stmt"/>
+        <line num="20" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="10" type="stmt"/>
+        <line num="39" count="7" type="stmt"/>
+        <line num="40" count="7" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="48" count="5" type="stmt"/>
+      </file>
+      <file name="PortfolioPage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/PortfolioPage.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="SignUpPage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/SignUpPage.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+      </file>
+      <file name="UserPage.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/pages/UserPage.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="5" coveredconditionals="5" methods="3" coveredmethods="3"/>
+        <line num="10" count="14" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="12" count="14" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="17" count="14" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="21" count="14" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="22" coveredstatements="12" conditionals="2" coveredconditionals="1" methods="9" coveredmethods="3"/>
+      <file name="AuthContex.jsx" path="C:/Users/admin/Desktop/photographerWebsite/frontend/store/AuthContex.jsx">
+        <metrics statements="22" coveredstatements="12" conditionals="2" coveredconditionals="1" methods="9" coveredmethods="3"/>
+        <line num="3" count="45" type="stmt"/>
+        <line num="6" count="28" type="stmt"/>
+        <line num="7" count="28" type="stmt"/>
+        <line num="9" count="28" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="11" count="15" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="15" type="stmt"/>
+        <line num="13" count="15" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="28" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="28" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="42" count="28" type="stmt"/>
+        <line num="49" count="261" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

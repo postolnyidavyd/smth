@@ -1,0 +1,41 @@
+{
+  "outdoor": [
+    "app_images/outdoor/P1244458.jpg",
+    "app_images/outdoor/P1277561.jpg",
+    "app_images/outdoor/P1277578.jpg",
+    "app_images/outdoor/P1277637.jpg",
+    "app_images/outdoor/P1277659.jpg",
+    "app_images/outdoor/P1277772.jpg"
+  ],
+  "studio": [
+    "app_images/studio/P1211158.jpg",
+    "app_images/studio/P1211468.jpg",
+    "app_images/studio/P1211526.jpg",
+    "app_images/studio/P1211659.jpg",
+    "app_images/studio/P1222572.jpg",
+    "app_images/studio/P1222638.jpg",
+    "app_images/studio/P1222690.jpg",
+    "app_images/studio/P1222779.jpg",
+    "app_images/studio/P1222935.jpg",
+    "app_images/studio/P1222936.jpg"
+  ],
+  "view": [
+    "app_images/view/IMG_0034.jpeg",
+    "app_images/view/IMG_1070.jpeg",
+    "app_images/view/IMG_1081.jpeg",
+    "app_images/view/IMG_1271.jpeg",
+    "app_images/view/IMG_1313.JPG",
+    "app_images/view/IMG_1358.jpeg"
+  ],
+  "about": {
+    "big": "app_images/meWarm.JPG",
+    "small": [
+      "app_images/meOutdoor.jpeg",
+      "app_images/meStudio.jpeg"
+    ]
+  },
+  "main": [
+    "app_images/camera.jpg",
+    "app_images/volleyball.JPG"
+  ]
+}
